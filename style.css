@@ -551,7 +551,7 @@ overflow: hidden;
         border: none;
         border-radius: 10px;
        position: relative;
-       bottom: 3px;
+       bottom: 13px;
        }
     
        .assinatura2{
@@ -678,11 +678,12 @@ transition: all 0.5s;
 /*contato*/
 
 .container6{
-  height: 50vh;
+  height: 280px;
   background-color: #2e2e2e;
+  border-top: #9e9e9e 0.1rem solid;
 }
 
-section h2{
+ .c1{
   color: #ffffff;
   text-align: center;
   padding: 2rem;
@@ -701,6 +702,14 @@ color: #ffffff;
 
 }
 
+.c2{
+  text-align: center;
+  color: #ffffff;
+text-decoration: underline;
+margin: 1rem;
+
+}
+
 .p0{
  font-weight:bold ;
 
@@ -716,7 +725,8 @@ color: #ffffff;
 .agenda p{
   color: #ffffff;
   text-align: center;
-
+margin-top: 1rem;
+overflow: hidden;
 }
 
 .agenda1{
@@ -729,6 +739,13 @@ color: #ffffff;
 
 .agenda3{
   padding: 10px;
+}
+
+footer{
+  color: #ffffff;
+  text-align: center;
+  background-color: #222222;
+  padding: 5px;
 }
 
 

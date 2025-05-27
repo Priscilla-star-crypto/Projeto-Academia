@@ -51,6 +51,8 @@
   margin-top: 1rem;
 }
 
+
+
 @media (max-width: 550px) {
 
   .container-aulas{
@@ -81,6 +83,14 @@ padding: 10px;
 
 .card:hover .texto{
   cursor: pointer;
+}
+
+.amenu:hover{
+  border-bottom: none;
+  transition: none;
+  font-size: 1em;
+  color: rgb(148, 148, 148);
+
 }
 
 /*planos*/

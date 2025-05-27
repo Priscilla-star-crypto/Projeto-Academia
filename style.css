@@ -574,7 +574,7 @@ overflow: hidden;
 }
 
  .container5 h2{
-  margin-top: 5rem;
+  margin-top: 4rem;
     margin-left: 2rem;
     margin-right: 2rem;
 margin-bottom: 7rem;
@@ -583,7 +583,7 @@ margin-bottom: 7rem;
     background: linear-gradient(to right, #4d4d4d, #bebdbd);
     -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
-   padding: 18px;
+
  
    color: rgb(255, 255, 255);
    font-weight: 700;
@@ -702,24 +702,24 @@ color: #ffffff;
 
 }
 
+
+
 .c2{
-  text-align: center;
-  color: #ffffff;
-text-decoration: underline;
-margin: 1rem;
-
-}
-
-.p0{
  font-weight:bold ;
 
   
 }
 
-.p1{
+.c3{
   margin-right: 10px;
  font-weight: 100;
 }
+
+.agenda0{
+  text-align: center;
+  color: #ffffff;
+text-decoration: underline;
+margin: 1rem;}
 
 
 .agenda p{

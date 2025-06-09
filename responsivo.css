@@ -42,10 +42,11 @@
 @media (max-width: 785px) {
   .container-aulas{
     height: 120vh;
+   
   }}
 
   .texto p{
-  margin-right: 7px;
+  margin-right: 19px;
   padding: 0 1rem;
   text-align: justify;
   margin-top: 1rem;

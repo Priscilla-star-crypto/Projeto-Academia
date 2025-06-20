@@ -46,10 +46,13 @@
   }}
 
   .texto p{
-  margin-right: 19px;
-  padding: 0 1rem;
+
+  padding: 0px;
   text-align: justify;
-  margin-top: 1rem;
+  margin-top: 10px;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
 }
 
 

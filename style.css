@@ -246,7 +246,7 @@ padding: 1rem;
   margin-top: 5rem;
   color: #ffffff;
   font-family: var(--font-family-2);
- font-size: 2.3em;
+  font-size: 2.3em;
   background: linear-gradient(to right, #2e2e2e, #bebdbd);
  -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
@@ -278,12 +278,11 @@ padding: 1rem;
   margin-top: 2rem;
   transition: transform 0.5s;
   position: relative;
+  
 }
 
 .texto{
   display: none;
-
-
 }
 
 .texto h2{
@@ -325,10 +324,9 @@ padding: 1rem;
 .card img{
   width: 96%;
   height: 44vh;
- border-radius: 10px;
- filter: grayscale(60%);
-overflow: hidden;
-
+  border-radius: 10px;
+  filter: grayscale(60%);
+  overflow: hidden;
 }
 
 .card:hover{

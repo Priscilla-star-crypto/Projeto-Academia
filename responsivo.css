@@ -37,9 +37,26 @@
 
 @media( max-width: 510px){
   .container3{
-       height: 200vh;
-
+       height: 220vh;
   }
+
+  .card{
+    filter: blur(0px);
+ 
+  }
+
+  .texto{
+    display: block;
+  }
+
+  .btn-card{
+    display: block;
+  }
+
+  .card:hover{
+   transform: none; /* Aumenta a imagem ao passar o mouse */
+ }
+
 
 }
 

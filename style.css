@@ -234,11 +234,11 @@ padding: 1rem;
 }
 
 
-/*planos*/
+/*aulas*/
 
 .container3{
-  background-color: #242424;
-   height: 130vh;
+ background-color: #383838;  
+ height: 130vh;
 
 }
 
@@ -273,7 +273,7 @@ margin-top: 7rem;
  height: 46vh;
  margin-top: 2rem;
  margin-bottom: 2rem;
- filter: blur(1.3px);
+ filter: brightness(75%) ;
 }
 
 

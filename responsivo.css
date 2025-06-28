@@ -60,6 +60,32 @@
 
 }
 
+@media( max-width: 770px){
+
+  .container3{
+       height: 170vh;
+  }
+
+.card{
+    filter: blur(0px);
+ 
+  }
+
+  .texto{
+    display: block;
+  }
+
+  .btn-card{
+    display: block;
+  }
+
+  .card:hover{
+   transform: none; /* Aumenta a imagem ao passar o mouse */
+ }
+
+}
+
+
 
 
 

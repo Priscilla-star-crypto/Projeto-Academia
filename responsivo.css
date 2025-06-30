@@ -37,9 +37,11 @@
 
 @media( max-width: 510px){
   .container3{
-       height: 220vh;
+    height: 10vh;
+     
   }
 
+  
   .card{
     filter: blur(0px);
  
@@ -63,16 +65,19 @@
 @media( max-width: 770px){
 
   .container3{
-       height: 170vh;
+       height: 208vh;
   }
+
+  
 
 .card{
     filter: blur(0px);
- 
+
   }
 
   .texto{
     display: block;
+    text-align: center;
   }
 
   .btn-card{
